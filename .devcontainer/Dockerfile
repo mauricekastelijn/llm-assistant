@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/python:3.12
+FROM mcr.microsoft.com/devcontainers/python:3.14
 
 # Install the Cisco Umbrella Root CA certificate
 # See # See https://docs.docker.com/engine/network/ca-certs/
